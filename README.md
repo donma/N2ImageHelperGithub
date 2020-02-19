@@ -3,7 +3,7 @@
 Tutorial
 ----
 
-一套 library 可以讓你無 server 配合 Github 做出一套 Image Service ，因為這是 library 版本 ，如果你是想要直接使用 Server 版本，你可以到這裡 https://github.com/donma/N2ImageAgent.AzureBlob2020 ，使用 Azure 版本，除非我找時間來寫 sever 版本
+一套 library 可以讓你無 server 配合 Github 做出一套 Image Service ，簡單說就可以把 github 當圖床用?，因為這是 library 版本 ，如果你是想要直接使用 Server 版本，你可以到這裡 https://github.com/donma/N2ImageAgent.AzureBlob2020 ，使用 Azure 版本，除非我找時間來寫 sever 版本 base on Github 。 這套 library 製作出來的 repo 會長這樣 https://github.com/gitozhack/imgstock1 ，如果有幫助就幫我 star 一下了，感恩。
 
 Happy Coding :)
 
