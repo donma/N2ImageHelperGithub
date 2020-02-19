@@ -23,7 +23,7 @@ Document
 #### Upload Image From Local File.
 ```C#
            Console.WriteLine("Upload Image To Source");
-           agent.UpoloadImageToSource("test1", AppDomain.CurrentDomain.BaseDirectory + "sample1.jpg", "test upload image source");
+           agent.UpoloadImageToSource("imageid", AppDomain.CurrentDomain.BaseDirectory + "sample1.jpg", "test upload image source");
      
 ```
 
@@ -31,7 +31,7 @@ Document
 
 ```C#
             Console.WriteLine("Upload Image To Source from byte[]");
-            agent.UpoloadImageToSource("test1", File.ReadAllBytes(AppDomain.CurrentDomain.BaseDirectory + "sample1.jpg"), "測試上傳:"+DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
+            agent.UpoloadImageToSource("imageid", File.ReadAllBytes(AppDomain.CurrentDomain.BaseDirectory + "sample1.jpg"), "測試上傳:"+DateTime.Now.ToString("yyyy-MM-dd HH:mm:ss"));
 
 ```
 
